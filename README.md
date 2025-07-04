@@ -2,9 +2,12 @@
 
 Eu sou a **Larissa**, estudante de Ciência da Computação e apaixonada por entender como os sistemas funcionam por trás das telas. Atualmente, estou focada no **desenvolvimento back-end** e na construção de uma base sólida em lógica de programação.
 
-Tenho conhecimento em **Python**, **Java** e **JavaScript (Node.js)**. No dia a dia, utilizo ferramentas como **Git/GitHub** para versionamento de código, **Docker** para gerenciamento de ambientes e **PostgreSQL**, com apoio do **DBeaver**, para consultas e organização de dados relacionais.
+Tenho conhecimento em Python, Java e JavaScript (Node.js).
+No dia a dia, venho me desenvolvendo em lógica de programação, com foco em back-end utilizando ferramentas como Python, Java e JavaScript (com foco em Node.js), além de experiência prática com ferramentas como Git e GitHub, Docker e PostgreSQL (com DBeaver). Também gosto de compartilhar aprendizados, aprender com a prática e explorar o universo da tecnologia com curiosidade e propósito! 🚀
 
-Também gosto de compartilhar aprendizados, aprender com a prática e explorar o universo da tecnologia com curiosidade e propósito! 🚀
+### Me Encontre Online:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-nicanor/)
 
 ---
 
@@ -23,4 +26,8 @@ Também gosto de compartilhar aprendizados, aprender com a prática e explorar o
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Linguagens Mais Usadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-nicanor&layout=compact&theme=dark)
