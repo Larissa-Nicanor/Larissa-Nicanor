@@ -2,11 +2,11 @@
 
 Eu sou a **Larissa**, estudante de Ciência da Computação e apaixonada por entender como os sistemas funcionam por trás das telas. Atualmente estou focada em construir uma base sólida em lógica de programação, para o **desenvolvimento de software**.
 
-No dia a dia, com foco em back-end, utilizo ferramentas como Python, Java e JavaScript (com foco em Node.js), além de experiência prática com ferramentas como Git e GitHub, Docker e PostgreSQL (com DBeaver), com foco no aprendizado contínuo e na aplicação prática das habilidades que venho desenvolvendo. 
+No dia a dia, com foco em back-end, utilizo ferramentas como Python, Java e JavaScript (com foco em Node.js), além de experiência prática com ferramentas como Git e GitHub, Docker e PostgreSQL (com DBeaver), com o aprendizado contínuo e aplicações prática das habilidades que venho desenvolvendo. 
 
 Busco oportunidades para crescer na área de tecnologia e estou aberta a conexões, trocas de experiências e novos desafios. Também gosto de compartilhar aprendizados, aprender com a prática e explorar o universo da tecnologia com curiosidade e propósito! 🚀
 
-### Me Encontre Online:
+### Me Encontre Online, vamos nos conectar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-nicanor/)
 
