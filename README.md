@@ -1,9 +1,10 @@
 ## Olá, Mundo! 🌎
 
-Eu sou a **Larissa**, estudante de Ciência da Computação e apaixonada por entender como os sistemas funcionam por trás das telas. Atualmente, estou focada no **desenvolvimento back-end** e na construção de uma base sólida em lógica de programação.
+Eu sou a **Larissa**, estudante de Ciência da Computação e apaixonada por entender como os sistemas funcionam por trás das telas. Atualmente estou focada em construir uma base sólida em lógica de programação, para o **desenvolvimento de software**.
 
-Tenho conhecimento em Python, Java e JavaScript (Node.js).
-No dia a dia, venho me desenvolvendo em lógica de programação, com foco em back-end utilizando ferramentas como Python, Java e JavaScript (com foco em Node.js), além de experiência prática com ferramentas como Git e GitHub, Docker e PostgreSQL (com DBeaver). Também gosto de compartilhar aprendizados, aprender com a prática e explorar o universo da tecnologia com curiosidade e propósito! 🚀
+No dia a dia, com foco em back-end, utilizo ferramentas como Python, Java e JavaScript (com foco em Node.js), além de experiência prática com ferramentas como Git e GitHub, Docker e PostgreSQL (com DBeaver), com foco no aprendizado contínuo e na aplicação prática das habilidades que venho desenvolvendo. 
+
+Busco oportunidades para crescer na área de tecnologia e estou aberta a conexões, trocas de experiências e novos desafios. Também gosto de compartilhar aprendizados, aprender com a prática e explorar o universo da tecnologia com curiosidade e propósito! 🚀
 
 ### Me Encontre Online:
 
