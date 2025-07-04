@@ -16,3 +16,9 @@ Também gosto de compartilhar aprendizados, aprender com a prática e explorar o
 - 🎯 Busco evoluir um pouco a cada commit!
 - 🧩 Curto resolver problemas e pensar em soluções criativas.
 - 💡 Acredito que tecnologia é uma ponte — e estou trilhando o caminho com paixão e propósito.
+
+### Minhas Habilidades e Ferramentas:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
