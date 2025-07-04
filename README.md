@@ -27,7 +27,3 @@ No dia a dia, venho me desenvolvendo em lógica de programação, com foco em ba
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Linguagens Mais Usadas:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-nicanor&layout=compact&theme=dark)
